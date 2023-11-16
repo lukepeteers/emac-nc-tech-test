@@ -1,4 +1,4 @@
-import { app } from './server'
+const {app} = require("./server")
 
 const PORT = 7000
 
